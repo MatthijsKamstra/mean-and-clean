@@ -11,6 +11,13 @@ I wanted to use as little a possible, but I just didn't want to write directly o
 My focus is on Osx but I am confinced it is also usuable for Windows or Linux. If not, create an issue of do a pull request.
 
 
+
+# Libs
+
+- fake info to populate a empty database quickly : <https://github.com/marak/Faker.js/>
+
+
+
 # Install
 
 The next steps are to install everything you need.
